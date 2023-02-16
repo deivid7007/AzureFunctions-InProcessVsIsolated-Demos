@@ -1,0 +1,1 @@
+# AzureFunctions-InProcessVsIsolated-Demos
